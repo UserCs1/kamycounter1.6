@@ -1,0 +1,1 @@
+function loadPage() { document.getElementById('status').style.display = 'block'; } 
